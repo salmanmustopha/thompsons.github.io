@@ -1020,7 +1020,9 @@ border-left: 2px  solid blue;
     border-radius: 10px;
     margin: 0px 5px;
     }
-    
+    #w{
+      font-size: 20px;
+    }
     .year{
     color: orange;
     padding: 0px 40px;
