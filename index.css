@@ -254,6 +254,12 @@ border-left: 2px  solid blue;
   
   }
   
+  .rev{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      }
+      
   .p{
   text-align: center;
   color: rgb(109, 103, 103);
@@ -993,9 +999,14 @@ border-left: 2px  solid blue;
     padding: 0px 100px;
     font-size: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
     }
     
+    .rev{
+      text-align: center;
+      font-size: 30px;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      padding: 0px 70px;
+    }
     .p{
     text-align: center;
     color: rgb(109, 103, 103);
@@ -1020,9 +1031,7 @@ border-left: 2px  solid blue;
     border-radius: 10px;
     margin: 0px 5px;
     }
-    #w{
-      font-size: 20px;
-    }
+    
     .year{
     color: orange;
     padding: 0px 40px;
